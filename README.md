@@ -1,4 +1,4 @@
-### todo-clone
+# todo-clone
 ## What is the use of this Repo
 This Project is a Simple ReactJS Project which demonstrates the following
 1. Creating a Component in React
@@ -25,8 +25,8 @@ In order to run the application Type the following command
 npm start
 The Application Runs on localhost:3000
 
-## Application design
-# Components
+# Application design
+## Components
 1. Sidebar component :- This component displays a sidebar, which lets you toggle between "Inbox", "Today" and  "Next 7 Days".
 2. Tasks component :- This component lets you add new tasks and displays previously added tasks on screen.
 
